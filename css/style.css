@@ -63,6 +63,7 @@ li {
 }
 .p-1 {
 	padding-bottom: 25px;
+	align="justify";
 }
 .a-black {
 	color: #6DB274;
